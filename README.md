@@ -1,2 +1,2 @@
 # Računalniški praktikum
-bližnjice 
+ctrl + c, ctlr + v, ctlr + a
