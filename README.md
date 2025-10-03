@@ -1,2 +1,2 @@
 # Računalniški praktikum
-ctrl + o, ctlr + n, ctlr + a
+ctrl + o - odpre mapo, ctlr + n - odpre novo datoteko, ctlr + a - izbere celoten text
