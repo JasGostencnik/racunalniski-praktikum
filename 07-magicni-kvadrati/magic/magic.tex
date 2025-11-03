@@ -9,6 +9,7 @@
 \usepackage{amsmath}
 \usepackage{booktabs}
 \usepackage{amsthm}
+\usepackage{amssymb}
 
 {\theoremstyle{definition}
 \newtheorem{definicija}{Definicija}}
@@ -21,7 +22,7 @@
 
 \newcommand{\pojem}[1]{\emph{\color{purple}{#1}}}
 
-\newenvironment{dokaz}{\par\noindent\textit{Dokaz izreka.}}{\hfill\par}
+\newenvironment{dokaz}{\par\noindent\textit{Dokaz izreka.}\quad}{\hfill$\square$\par}
 
 \newenvironment{magic}[2]{\begin{table}[!ht]
    \caption{#1}
